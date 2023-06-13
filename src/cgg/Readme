@@ -1,0 +1,3 @@
+FUNCTIONAL INTERFACES AND LAMBDA EXPRESSIONS
+a functional interface has only one abstract methods
+@override annotation is used to indicate a functional interface
