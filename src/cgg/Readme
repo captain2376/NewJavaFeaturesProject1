@@ -8,6 +8,11 @@ we can replace anonymous class with lambda expression
 functional interfaces can be instantiated using lambda expression,method reference and
 ----------------------
 LAMBDA EXPRESSIONS;-functional programming
+signature of lambda will be described in abstract class of functional interface
  a function that can be created without belonging to a class
  parameter->expression body
- 
+Lambda parameters-zero(),single,multi
+return type-void,return type
+to extract method from a prgram ->select the line of code to insert into a method->right click ->refactor->
+->extract method->give a method name ->ok
+now a method will be created with the given name and a call will also be made.
