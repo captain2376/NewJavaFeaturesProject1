@@ -1,5 +1,6 @@
 FUNCTIONAL INTERFACES AND LAMBDA EXPRESSIONS
 a functional interface has only one abstract methods
 @FunctionalInterface annotation is used to indicate a functional interface no limit on default and static methods
-
-
+crtl+shift+t=search a class in package
+java.lang.Runnable has single runnable abstract method run() great ex. of funtional interface
+it is possible to instantiate a functional interface with anonymous class
