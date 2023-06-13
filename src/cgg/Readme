@@ -1,0 +1,28 @@
+FUNCTIONAL INTERFACES AND LAMBDA EXPRESSIONS
+a functional interface has only one abstract methods
+@FunctionalInterface annotation is used to indicate a functional interface no limit on default and static methods
+crtl+shift+t=search a class in package
+java.lang.Runnable has single runnable abstract method run() great ex. of funtional interface
+it is possible to instantiate a functional interface with anonymous class
+we can replace anonymous class with lambda expression
+functional interfaces can be instantiated using lambda expression,method reference and
+----------------------
+LAMBDA EXPRESSIONS;-functional programming
+signature of lambda will be described in abstract class of functional interface
+ a function that can be created without belonging to a class
+ parameter->expression body
+Lambda parameters-zero(),single,multi
+return type-void,return type
+to extract method from a prgram ->select the line of code to insert into a method->right click ->refactor->
+->extract method->give a method name ->ok
+now a method will be created with the given name and a call will also be made.
+LAMBDA WITH ONE PARAMETER'
+(parm)->syso("one param"+parm);
+or parm->syso("one param"+parm);
+and above two types have void return types
+MULTI PARAMETERS
+--
+(p1,p2)->syso("multi param"+p1+" "+p2);
+
+
+
