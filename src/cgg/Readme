@@ -5,3 +5,9 @@ crtl+shift+t=search a class in package
 java.lang.Runnable has single runnable abstract method run() great ex. of funtional interface
 it is possible to instantiate a functional interface with anonymous class
 we can replace anonymous class with lambda expression
+functional interfaces can be instantiated using lambda expression,method reference and
+----------------------
+LAMBDA EXPRESSIONS;-functional programming
+ a function that can be created without belonging to a class
+ parameter->expression body
+ 
